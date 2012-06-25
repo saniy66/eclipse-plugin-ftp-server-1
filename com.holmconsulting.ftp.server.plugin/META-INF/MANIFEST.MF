@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FTP Server
+Bundle-SymbolicName: com.holmconsulting.ftp.server.plugin;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.holmconsulting.ftp.server.plugin.Activator
+Bundle-Localization: i18n/Resources
+Bundle-Vendor: HOLMCONSULTING LTD
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.ide,
+ org.eclipse.core.resources,
+ org.eclipse.core.filesystem,
+ org.eclipse.mylyn.commons.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6,
+ J2SE-1.5
+Bundle-ClassPath: lib/FTP-SERVER-1.0.0.jar,
+ .
+Bundle-ActivationPolicy: lazy
+Export-Package: com.holmconsulting.ftp.server,
+ com.holmconsulting.ftp.server.plugin,
+ com.holmconsulting.ftp.server.plugin.commands,
+ com.holmconsulting.ftp.server.plugin.editors,
+ com.holmconsulting.ftp.server.plugin.preferences,
+ com.holmconsulting.ftp.server.plugin.util,
+ com.holmconsulting.ftp.server.plugin.views

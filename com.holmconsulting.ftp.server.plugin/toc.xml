@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="FTP Server Plugin Documentation">
+		<topic href="html/viewServerViewTopic.html" label="Display File Store">
+  </topic>
+		<topic label="Show FTP Server preference page" href="html/showPrefPageTopic.html"/>
+		<topic label="Start FTP Server" href="html/startServerTopic.html"/>
+		<topic label="Stop FTP Server" href="html/stopServerTopic.html"/>
+  <topic href="html/legal.html" label="Legal Note">
+  </topic> 
+</toc>
