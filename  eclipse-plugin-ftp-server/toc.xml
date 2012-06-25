@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="HSQL Database Server Plugin Documentation">
+		<topic href="html/viewServerViewTopic.html" label="Display HSQL Database View">
+  </topic>
+		<topic label="Show HSQL Database Server preference page" href="html/showPrefPageTopic.html"/>
+		<topic label="Start HSQL Database Server" href="html/startServerTopic.html"/>
+		<topic label="Stop HSQL Database Server" href="html/stopServerTopic.html"/>
+		<topic label="Show HSQL Database Client" href="html/showClientTopic.html"/>
+  <topic href="html/legal.html" label="Legal Note">
+  </topic> 
+</toc>
