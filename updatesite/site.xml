@@ -5,4 +5,5 @@
    </description>
    <feature url="features/com.holmconsulting.ftp.server.feature_1.0.0.201206241439.jar" id="com.holmconsulting.ftp.server.feature" version="1.0.0.201206241439"/>
    <feature url="features/com.holmconsulting.ftp.server.feature_1.0.0.201206241444.jar" id="com.holmconsulting.ftp.server.feature" version="1.0.0.201206241444"/>
+   <feature url="features/com.holmconsulting.ftp.server.feature_1.0.0.201206252002.jar" id="com.holmconsulting.ftp.server.feature" version="1.0.0.201206252002"/>
 </site>
