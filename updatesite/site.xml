@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="eclipse-plugin-ftp-server" url="https://code.google.com/p/eclipse-plugin-ftp-server/">
+      This is an eclipse FTP Server plugin where you can start your FTP server from eclipse and shut it down.There is a preference page where you can set up different configuration values such as username, password, port, persisting between session ( start and stop of the ftp server), debug information into the console
+   </description>
+   <feature url="features/net.holmconsulting.ftp.server.feature_1.1.0.201507022315.jar" id="net.holmconsulting.ftp.server.feature" version="1.1.0.201507022315"/>
+</site>
